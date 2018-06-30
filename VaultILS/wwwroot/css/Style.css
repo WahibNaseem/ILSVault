@@ -1,0 +1,56 @@
+﻿.assets {
+    margin:0 auto;
+}
+
+#assetsTable td{
+    text-align:center;
+    border-bottom:1px solid #ddd;
+}
+.imageCell {
+    width:128px;
+    padding:10px;
+}
+
+.detailHeading {
+    padding: 10px;
+}
+
+.detailImage {
+    width:200px;
+    padding-bottom:6px;
+}
+
+.detailInfo{
+    padding:10px;
+    font-size:1.3em;
+    color:#555;
+}
+
+#itemTitle {
+    font-size:2.3em;
+}
+
+#itemAuthor {
+    font-size:1.6em;
+}
+
+#itemStatus {
+    font-weight:bold;
+    font-size:1.3em;
+}
+
+#itemType{
+    font-size:1.6em;
+    color:#888;
+}
+
+.itemLable {
+    font-weight: bold;
+}
+
+.itemValue {
+    text-align: center;
+    font-size: 0.8em;
+}
+
+

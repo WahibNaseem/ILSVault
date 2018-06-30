@@ -1,0 +1,16 @@
+C:\Users\Wahib Naseem\source\repos\VaultILS\bin\Debug\netcoreapp2.0\VaultILS.deps.json
+C:\Users\Wahib Naseem\source\repos\VaultILS\bin\Debug\netcoreapp2.0\VaultILS.runtimeconfig.json
+C:\Users\Wahib Naseem\source\repos\VaultILS\bin\Debug\netcoreapp2.0\VaultILS.runtimeconfig.dev.json
+C:\Users\Wahib Naseem\source\repos\VaultILS\bin\Debug\netcoreapp2.0\VaultILS.dll
+C:\Users\Wahib Naseem\source\repos\VaultILS\bin\Debug\netcoreapp2.0\VaultILS.pdb
+C:\Users\Wahib Naseem\source\repos\VaultILS\bin\Debug\netcoreapp2.0\LibraryData.dll
+C:\Users\Wahib Naseem\source\repos\VaultILS\bin\Debug\netcoreapp2.0\LibraryServices.dll
+C:\Users\Wahib Naseem\source\repos\VaultILS\bin\Debug\netcoreapp2.0\LibraryData.pdb
+C:\Users\Wahib Naseem\source\repos\VaultILS\bin\Debug\netcoreapp2.0\LibraryServices.pdb
+C:\Users\Wahib Naseem\source\repos\VaultILS\obj\Debug\netcoreapp2.0\VaultILS.csprojAssemblyReference.cache
+C:\Users\Wahib Naseem\source\repos\VaultILS\obj\Debug\netcoreapp2.0\VaultILS.csproj.CoreCompileInputs.cache
+C:\Users\Wahib Naseem\source\repos\VaultILS\obj\Debug\netcoreapp2.0\VaultILS.AssemblyInfoInputs.cache
+C:\Users\Wahib Naseem\source\repos\VaultILS\obj\Debug\netcoreapp2.0\VaultILS.AssemblyInfo.cs
+C:\Users\Wahib Naseem\source\repos\VaultILS\obj\Debug\netcoreapp2.0\VaultILS.csproj.CopyComplete
+C:\Users\Wahib Naseem\source\repos\VaultILS\obj\Debug\netcoreapp2.0\VaultILS.dll
+C:\Users\Wahib Naseem\source\repos\VaultILS\obj\Debug\netcoreapp2.0\VaultILS.pdb
